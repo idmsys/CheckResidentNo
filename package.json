@@ -1,0 +1,11 @@
+{
+  "name": "checkresidentno",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/",
+  "scripts": {
+    "start": "tsc && node dist/"
+  },
+  "author": "ldmsys <admin@ldmsys.net>",
+  "license": "MIT"
+}
